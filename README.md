@@ -1,5 +1,5 @@
 ### 文件介绍
-Builder      : 构造者模式
+Builder      : 建造者模式
 
 config       : 配置文件, 设置图标族
 
