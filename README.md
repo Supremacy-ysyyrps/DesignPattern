@@ -21,3 +21,5 @@ e.g.
 ```bash
 python main.py -f test.json -s tree -i fruit
 ```
+note:
+建议使用 vscode, cmd 可能出现 icon 无法显示
